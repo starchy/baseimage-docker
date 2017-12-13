@@ -1,5 +1,7 @@
 # A minimal Ubuntu base image modified for Docker-friendliness
 
+## This fork is built by default with sshd disabled, and allows me to rebuild on my own schedule for upstream security updates. PRs should go to https://github.com/phusion/baseimage-docker
+
 [![](https://badge.imagelayers.io/phusion/baseimage:latest.svg)](https://imagelayers.io/?images=phusion/baseimage:latest 'Get your own badge on imagelayers.io')
 [![Travis](https://img.shields.io/travis/phusion/baseimage-docker.svg)](https://travis-ci.org/phusion/baseimage-docker)
 
